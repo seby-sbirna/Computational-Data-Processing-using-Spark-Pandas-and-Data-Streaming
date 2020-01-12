@@ -1,5 +1,5 @@
 ## Computational Data Processing using Spark, Pandas and Data Streaming 
-### _by Sebastian Sbirna (s190553), Yingrui Li (s171353) and Aijie Shu (s182190)_
+### _by Sebastian Sbirna, Yingrui Li and Aijie Shu_
 ---
 
 This repository contains a set of three full Data Science projects, created with a strong focus on ___tools and methods for working with data at scale.___
