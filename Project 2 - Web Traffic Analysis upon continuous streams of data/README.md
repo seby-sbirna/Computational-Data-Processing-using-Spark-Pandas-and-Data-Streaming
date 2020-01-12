@@ -1,4 +1,4 @@
-# Project 2: Web Traffic Analysis
+## Project 2 - Web Traffic Analysis upon continuous streams of data
 
 ### _by Sebastian Sbirna (s190553), Yingrui Li (s171353) and Aijie Shu (s182190)_
 ---
