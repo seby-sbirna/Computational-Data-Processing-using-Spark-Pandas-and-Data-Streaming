@@ -1,4 +1,4 @@
-# Project 3: Airbnb
+## Project 3: Spark Data Processing and Trend Detection from Airbnb data
 
 ### _by Sebastian Sbirna (s190553), Yingrui Li (s171353) and Aijie Shu (s182190)_
 ---
