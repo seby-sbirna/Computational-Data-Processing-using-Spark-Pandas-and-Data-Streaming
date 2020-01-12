@@ -4,7 +4,7 @@
 ---
 **This is the third of three mandatory projects to be handed in as part of the assessment for the course 02807 Computational Tools for Data Science at Technical University of Denmark, autumn 2019.**
 
-# Introduction
+## Introduction
 [Airbnb](http://airbnb.com) is an online marketplace for arranging or offering lodgings. 
 
 ___In this project you will use Spark to analyze data obtained from the Airbnb website. The purpose of the analysis is to extract information about trends and patterns from the data.___
@@ -56,7 +56,7 @@ import string
 spark = SparkSession.builder.appName("Project3").getOrCreate()
 ```
 
-# Part 1: Loading, describing and preparing the data
+## Part 1: Loading, describing and preparing the data
 The data comes in two files. Start by downloading the files and putting them in your `data/` folder.
 
 - [Listings](https://files.dtu.dk/u/siPzAasj8w2gI_ME/listings.csv?l) (5 GB)
@@ -315,7 +315,7 @@ listings_sub.count()
 
 
 ---
-# Part 2: Analysis
+## Part 2: Analysis
 Use Spark and your favorite tool for data visualization to solve the following tasks.
 
 ## The basics
