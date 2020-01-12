@@ -1,6 +1,6 @@
 ## Project 3: Spark Data Processing and Trend Detection from Airbnb data
 
-### _by Sebastian Sbirna (s190553), Yingrui Li (s171353) and Aijie Shu (s182190)_
+### _by Sebastian Sbirna, Yingrui Li and Aijie Shu_
 ---
 **This is the third of three mandatory projects to be handed in as part of the assessment for the course 02807 Computational Tools for Data Science at Technical University of Denmark, autumn 2019.**
 
