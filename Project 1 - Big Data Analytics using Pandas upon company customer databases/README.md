@@ -1,4 +1,4 @@
-# Project 1: Customer Database
+## Project 1: Big Data Analytics using Pandas upon company customer databases
 
 ### _by Sebastian Sbirna (s190553), Yingrui Li (s171353) and Aijie Shu (s182190)_
 ---
